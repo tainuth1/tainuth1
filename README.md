@@ -1,5 +1,5 @@
 # About Me:
-I'm a Junior Web Developer at ETEC Center😊.
+I'm a Junior Web Developer 💻😊.
 
 
 ## Socials:
